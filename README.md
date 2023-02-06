@@ -67,4 +67,4 @@
 - ****[Towards an Efficient System for Differentially-private, Cross-device Federated Learning.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488762)****
 - ****[GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks.](https://hal.science/hal-03752260/document)****
 - ****[Community-Structured Decentralized Learning for Resilient EI.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488764)****
-- ****[Separation of Powers in Federated Learning (Poster Paper).]()****
+- ****[Separation of Powers in Federated Learning (Poster Paper).](https://arxiv.org/pdf/2105.09400.pdf)****
