@@ -60,6 +60,10 @@
 
 - ****[Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning.](https://dl.acm.org/doi/abs/10.1145/3540250.3560883)****
 
+# DAC 2022
+
+- ****[FHDnn: communication efficient and robust federated learning for AIoT networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)****
+
 # OSDI2021
 
 - ****[Oort: Efficient Federated Learning via Guided Participant Selection.](https://www.usenix.org/system/files/osdi21-lai.pdf)****
