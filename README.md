@@ -56,6 +56,10 @@
 - ****[Variance Reduction is an Antidote to Byzantines: Better Rates, Weaker Assumptions and Communication Compression as a Cherry on the Top.](https://openreview.net/forum?id=pfuqQQCB34)****
 - ****[Dual Diffusion Implicit Bridges for Image-to-Image Translation.](https://openreview.net/forum?id=5HLoTvVGDe)****
 
+# FSE2022
+
+- ****[Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning.](https://dl.acm.org/doi/abs/10.1145/3540250.3560883)****
+
 # OSDI2021
 
 - ****[Oort: Efficient Federated Learning via Guided Participant Selection.](https://www.usenix.org/system/files/osdi21-lai.pdf)****
