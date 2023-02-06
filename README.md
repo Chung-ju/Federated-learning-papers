@@ -62,7 +62,7 @@
 
 # DAC 2022
 
-- ****[FHDnn: communication efficient and robust federated learning for AIoT networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)****
+- ****[FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)****
 
 # OSDI2021
 
