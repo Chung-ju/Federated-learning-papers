@@ -78,6 +78,13 @@
 - ****[The communication cost of security and privacy in federated frequency estimation.](https://openreview.net/forum?id=5HLoTvVGDe)****
 - ****[Federated Averaging Langevin Dynamics: Toward a unified theory of and new algorithms.](https://openreview.net/forum?id=5HLoTvVGDe)****
 - ****[Active Membership Inference Attack under Local Differential Privacy in Federated Learning.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Private Non-Convex Federated Learning Without a Trusted Server.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Federated Learning under Distributed Concept Drift.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Efficient and Light-Weight Federated Learning via Asynchronous Distributed Dropout.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Nothing but Regrets --- Privacy-Preserving Federated Causal Discovery.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Federated Learning for Data Streams.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Federated Asymptotics: a model to compare federated learning algorithms.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Characterizing Internal Evasion Attacks in Federated Learning.](https://openreview.net/forum?id=5HLoTvVGDe)****
 
 # 2022
 
