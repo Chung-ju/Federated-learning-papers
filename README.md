@@ -73,9 +73,9 @@
 
 ## AISTATS 2023
 
-- ****[Characterizing Internal Evasion Attacks in Federated Learning.](https://openreview.net/forum?id=5HLoTvVGDe)****
-- ****[Byzantine-Robust Federated Learning with Optimal Statistical Rates.](https://openreview.net/forum?id=5HLoTvVGDe)****
-- ****[The communication cost of security and privacy in federated frequency estimation.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Characterizing Internal Evasion Attacks in Federated Learning.]()****
+- ****[Byzantine-Robust Federated Learning with Optimal Statistical Rates.](https://arxiv.org/pdf/2205.11765.pdf)****
+- ****[The communication cost of security and privacy in federated frequency estimation.](https://arxiv.org/pdf/2211.10041.pdf)****
 - ****[Federated Averaging Langevin Dynamics: Toward a unified theory of and new algorithms.](https://openreview.net/forum?id=5HLoTvVGDe)****
 - ****[Active Membership Inference Attack under Local Differential Privacy in Federated Learning.](https://openreview.net/forum?id=5HLoTvVGDe)****
 - ****[Private Non-Convex Federated Learning Without a Trusted Server.](https://openreview.net/forum?id=5HLoTvVGDe)****
@@ -84,7 +84,6 @@
 - ****[Nothing but Regrets --- Privacy-Preserving Federated Causal Discovery.](https://openreview.net/forum?id=5HLoTvVGDe)****
 - ****[Federated Learning for Data Streams.](https://openreview.net/forum?id=5HLoTvVGDe)****
 - ****[Federated Asymptotics: a model to compare federated learning algorithms.](https://openreview.net/forum?id=5HLoTvVGDe)****
-- ****[Characterizing Internal Evasion Attacks in Federated Learning.](https://openreview.net/forum?id=5HLoTvVGDe)****
 
 # 2022
 
