@@ -72,6 +72,12 @@
 
 ## AISTATS 2023
 
+- ****[Characterizing Internal Evasion Attacks in Federated Learning.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Byzantine-Robust Federated Learning with Optimal Statistical Rates.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[The communication cost of security and privacy in federated frequency estimation.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Federated Averaging Langevin Dynamics: Toward a unified theory of and new algorithms.](https://openreview.net/forum?id=5HLoTvVGDe)****
+- ****[Active Membership Inference Attack under Local Differential Privacy in Federated Learning.](https://openreview.net/forum?id=5HLoTvVGDe)****
+
 # 2022
 
 ## FSE 2022
