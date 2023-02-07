@@ -1,11 +1,23 @@
-# ICLR 2023
+# Contents
 
-## Notable-top-5% (2)
++ [2023](#2023)
+  - [ICLR 2023](#iclr-2023)
++ [2022]()
++ [2021]()
++ [2020]()
+
+----
+
+# 2023
+
+## ICLR 2023
+
+### Notable-top-5% (2)
 
 - ****[Personalized Federated Learning with Feature Alignment and Classifier Collaboration.](https://openreview.net/forum?id=SXZr8aDKia)****
 - ****[MocoSFL: enabling cross-client collaborative self-supervised learning.](https://openreview.net/forum?id=2QGJXyMNoPz)****
 
-## Notable-top-25% (5)
+### Notable-top-25% (5)
 
 - ****[Single-shot General Hyper-parameter Optimization for Federated Learning.](https://openreview.net/forum?id=3RhuF8foyPW)****
 - ****[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated.](https://openreview.net/forum?id=Mpa3tRJFBb)****
@@ -13,7 +25,7 @@
 - ****[Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection.](https://openreview.net/forum?id=mMNimwRb7Gr)****
 - ****[DASHA: Distributed Nonconvex Optimization with Communication Compression and Optimal Oracle Complexity.](https://openreview.net/forum?id=VA1YpcNr7ul)****
 
-## Poster (40)
+### Poster (40)
 
 - ****[Machine Unlearning of Federated Clusters.](https://openreview.net/forum?id=VzwfoFyYDga)****
 - ****[Federated Neural Bandits.](https://openreview.net/forum?id=38m4h8HcNRL)****
@@ -56,19 +68,27 @@
 - ****[Variance Reduction is an Antidote to Byzantines: Better Rates, Weaker Assumptions and Communication Compression as a Cherry on the Top.](https://openreview.net/forum?id=pfuqQQCB34)****
 - ****[Dual Diffusion Implicit Bridges for Image-to-Image Translation.](https://openreview.net/forum?id=5HLoTvVGDe)****
 
-# FSE 2022
+----
+
+# 2022
+
+## FSE 2022
 
 - ****[Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning.](https://dl.acm.org/doi/abs/10.1145/3540250.3560883)****
 
-# DAC 2022
+## DAC 2022
 
 - ****[FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)****
 
-# OSDI 2021
+----
+
+# 2021
+
+## OSDI 2021
 
 - ****[Oort: Efficient Federated Learning via Guided Participant Selection.](https://www.usenix.org/system/files/osdi21-lai.pdf)****
 
-# SOSP 2021-ResilientFL
+## SOSP 2021-ResilientFL
 
 - ****[FedScale: Benchmarking Model and System Performance of Federated Learning.](https://dl.acm.org/doi/abs/10.1145/3477114.3488760)****
 - ****[Redundancy in cost functions for Byzantine fault-tolerant federated learning.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488761)****
@@ -77,16 +97,20 @@
 - ****[Community-Structured Decentralized Learning for Resilient EI.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488764)****
 - ****[Separation of Powers in Federated Learning (Poster Paper).](https://arxiv.org/pdf/2105.09400.pdf)****
 
-# DAC 2021
+## DAC 2021
 
 - ****[HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.](https://arxiv.org/pdf/2111.08274.pdf)****
 - ****[FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control.](https://ieeexplore.ieee.org/abstract/document/9586175)****
 - ****[Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration.](https://arxiv.org/pdf/1912.01684.pdf)****
 
-# ASE 2020
+----
+
+# 2020
+
+## ASE 2020
 
 - ****[CrossPriv: user privacy preservation model for cross-silo federated software.](https://dl.acm.org/doi/abs/10.1145/3324884.3418911)****
 
-# USENIX ATC 2020
+## USENIX ATC 2020
 
 - ****[BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning.](https://www.usenix.org/system/files/atc20-zhang-chengliang.pdf)****
