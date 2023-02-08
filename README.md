@@ -11,6 +11,7 @@
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
   - [USENIX Security 2022 (4)](#usenix-security-2022-4)
+  - [S\&P 2022 (2)](#sp-2022-2)
   - [ICDE 2022 (10)](#icde-2022-10)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
@@ -115,6 +116,11 @@
 - ****[Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors.](https://www.usenix.org/system/files/sec22-stevens.pdf)****
 - ****[Label Inference Attacks Against Vertical Federated Learning.](https://www.usenix.org/system/files/sec22-fu-chong.pdf)****
 - ****[FLAME: Taming Backdoors in Federated Learning.](https://www.usenix.org/system/files/sec22-nguyen.pdf)****
+
+## S&P 2022 (2)
+
+- ****[SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs.](https://eprint.iacr.org/2021/1577.pdf)****
+- ****[Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning.](https://arxiv.org/pdf/2108.10241.pdf)****
 
 ## ICDE 2022 (10)
 
