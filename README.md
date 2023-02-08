@@ -109,15 +109,15 @@
 
 ## ICDE 2022 (10)
 
-- ****[Enhancing Federated Learning with In-Cloud Unlabeled Data.](https://dl.acm.org/doi/abs/10.1145/3477114.3488760)****
-- ****[FedMP: Federated Learning through Adaptive Model Pruning in Heterogeneous Edge Computing.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488761)****
-- ****[Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488762)****
-- ****[Federated Learning on Non-IID Data Silos: An Experimental Study.](https://hal.science/hal-03752260/document)****
-- ****[Enhancing Federated Learning with Intelligent Model Migration in Heterogeneous Edge Computing.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488764)****
-- ****[Improving Fairness for Data Valuation in Horizontal Federated Learning.](https://arxiv.org/pdf/2105.09400.pdf)****
-- ****[FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity.](https://arxiv.org/pdf/2105.09400.pdf)****
-- ****[FedRecAttack: Model Poisoning Attack to Federated Recommendation.](https://arxiv.org/pdf/2105.09400.pdf)****
-- ****[Samba: A System for Secure Federated Multi-Armed Bandits.](https://arxiv.org/pdf/2105.09400.pdf)****
+- ****[Enhancing Federated Learning with In-Cloud Unlabeled Data.](http://home.ustc.edu.cn/~lyl617/paper/icde2022_wanglun.pdf)****
+- ****[FedMP: Federated Learning through Adaptive Model Pruning in Heterogeneous Edge Computing.](https://ieeexplore.ieee.org/abstract/document/9835327)****
+- ****[Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning.](https://ieeexplore.ieee.org/abstract/document/9835159)****
+- ****[Federated Learning on Non-IID Data Silos: An Experimental Study.](https://arxiv.org/pdf/2102.02079.pdf)****
+- ****[Enhancing Federated Learning with Intelligent Model Migration in Heterogeneous Edge Computing.](http://staff.ustc.edu.cn/~lyl617/paper/icde22_liujianchun.pdf)****
+- ****[Improving Fairness for Data Valuation in Horizontal Federated Learning.](https://arxiv.org/pdf/2109.09046.pdf)****
+- ****[FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity.](https://arxiv.org/pdf/2204.03529)****
+- ****[FedRecAttack: Model Poisoning Attack to Federated Recommendation.](https://arxiv.org/pdf/2204.01499)****
+- ****[Samba: A System for Secure Federated Multi-Armed Bandits.](https://ieeexplore.ieee.org/abstract/document/9835585)****
 
 ----
 
