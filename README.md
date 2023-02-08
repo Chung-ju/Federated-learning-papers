@@ -19,6 +19,7 @@
 - [2020](#2020)
   - [ASE 2020 (1)](#ase-2020-1)
   - [USENIX ATC 2020 (1)](#usenix-atc-2020-1)
+  - [USENIX Security 2020 (1)](#usenix-security-2020-1)
 
 ----
 
@@ -161,3 +162,7 @@
 ## USENIX ATC 2020 (1)
 
 - ****[BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning.](https://www.usenix.org/system/files/atc20-zhang-chengliang.pdf)****
+
+## USENIX Security 2020 (1)
+
+- ****[Local Model Poisoning Attacks to Byzantine-Robust Federated Learning.](https://www.usenix.org/system/files/sec20-fang.pdf)****
