@@ -10,6 +10,7 @@
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
+  - [ICDE 2022 (10)](#icde-2022-10)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -105,6 +106,18 @@
 ## DAC 2022 (1)
 
 - ****[FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)****
+
+## ICDE 2022 (10)
+
+- ****[Enhancing Federated Learning with In-Cloud Unlabeled Data.](https://dl.acm.org/doi/abs/10.1145/3477114.3488760)****
+- ****[FedMP: Federated Learning through Adaptive Model Pruning in Heterogeneous Edge Computing.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488761)****
+- ****[Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488762)****
+- ****[Federated Learning on Non-IID Data Silos: An Experimental Study.](https://hal.science/hal-03752260/document)****
+- ****[Enhancing Federated Learning with Intelligent Model Migration in Heterogeneous Edge Computing.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488764)****
+- ****[Improving Fairness for Data Valuation in Horizontal Federated Learning.](https://arxiv.org/pdf/2105.09400.pdf)****
+- ****[FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity.](https://arxiv.org/pdf/2105.09400.pdf)****
+- ****[FedRecAttack: Model Poisoning Attack to Federated Recommendation.](https://arxiv.org/pdf/2105.09400.pdf)****
+- ****[Samba: A System for Secure Federated Multi-Armed Bandits.](https://arxiv.org/pdf/2105.09400.pdf)****
 
 ----
 
