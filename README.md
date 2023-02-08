@@ -110,10 +110,10 @@
 
 ## USENIX Security 2022 (4)
 
-- ****[SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost.](http://home.ustc.edu.cn/~lyl617/paper/icde2022_wanglun.pdf)****
-- ****[Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors.](https://ieeexplore.ieee.org/abstract/document/9835327)****
-- ****[Label Inference Attacks Against Vertical Federated Learning.](https://ieeexplore.ieee.org/abstract/document/9835159)****
-- ****[FLAME: Taming Backdoors in Federated Learning.](https://arxiv.org/pdf/2102.02079.pdf)****
+- ****[SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost.](https://www.usenix.org/system/files/sec22-chandran.pdf)****
+- ****[Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors.](https://www.usenix.org/system/files/sec22-stevens.pdf)****
+- ****[Label Inference Attacks Against Vertical Federated Learning.](https://www.usenix.org/system/files/sec22-fu-chong.pdf)****
+- ****[FLAME: Taming Backdoors in Federated Learning.](https://www.usenix.org/system/files/sec22-nguyen.pdf)****
 
 ## ICDE 2022 (10)
 
