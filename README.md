@@ -2,27 +2,27 @@
 
 - [Contents](#contents)
 - [2023](#2023)
-  - [ICLR 2023](#iclr-2023)
+  - [ICLR 2023 (47)](#iclr-2023-47)
     - [Notable-top-5% (2)](#notable-top-5-2)
     - [Notable-top-25% (5)](#notable-top-25-5)
     - [Poster (40)](#poster-40)
-  - [AISTATS 2023](#aistats-2023)
+  - [AISTATS 2023 (11)](#aistats-2023-11)
 - [2022](#2022)
-  - [FSE 2022](#fse-2022)
-  - [DAC 2022](#dac-2022)
+  - [FSE 2022 (1)](#fse-2022-1)
+  - [DAC 2022 (1)](#dac-2022-1)
 - [2021](#2021)
-  - [OSDI 2021](#osdi-2021)
-  - [SOSP 2021-ResilientFL](#sosp-2021-resilientfl)
-  - [DAC 2021](#dac-2021)
+  - [OSDI 2021 (1)](#osdi-2021-1)
+  - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
+  - [DAC 2021 (3)](#dac-2021-3)
 - [2020](#2020)
-  - [ASE 2020](#ase-2020)
-  - [USENIX ATC 2020](#usenix-atc-2020)
+  - [ASE 2020 (1)](#ase-2020-1)
+  - [USENIX ATC 2020 (1)](#usenix-atc-2020-1)
 
 ----
 
 # 2023
 
-## ICLR 2023
+## ICLR 2023 (47)
 
 ### Notable-top-5% (2)
 
@@ -82,7 +82,7 @@
 
 ----
 
-## AISTATS 2023
+## AISTATS 2023 (11)
 
 - ****[Characterizing Internal Evasion Attacks in Federated Learning.]()****
 - ****[Byzantine-Robust Federated Learning with Optimal Statistical Rates.](https://arxiv.org/pdf/2205.11765.pdf)****
@@ -98,11 +98,11 @@
 
 # 2022
 
-## FSE 2022
+## FSE 2022 (1)
 
 - ****[Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning.](https://dl.acm.org/doi/abs/10.1145/3540250.3560883)****
 
-## DAC 2022
+## DAC 2022 (1)
 
 - ****[FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)****
 
@@ -110,11 +110,11 @@
 
 # 2021
 
-## OSDI 2021
+## OSDI 2021 (1)
 
 - ****[Oort: Efficient Federated Learning via Guided Participant Selection.](https://www.usenix.org/system/files/osdi21-lai.pdf)****
 
-## SOSP 2021-ResilientFL
+## SOSP 2021-ResilientFL (6)
 
 - ****[FedScale: Benchmarking Model and System Performance of Federated Learning.](https://dl.acm.org/doi/abs/10.1145/3477114.3488760)****
 - ****[Redundancy in cost functions for Byzantine fault-tolerant federated learning.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488761)****
@@ -123,7 +123,7 @@
 - ****[Community-Structured Decentralized Learning for Resilient EI.](https://dl.acm.org/doi/pdf/10.1145/3477114.3488764)****
 - ****[Separation of Powers in Federated Learning (Poster Paper).](https://arxiv.org/pdf/2105.09400.pdf)****
 
-## DAC 2021
+## DAC 2021 (3)
 
 - ****[HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.](https://arxiv.org/pdf/2111.08274.pdf)****
 - ****[FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control.](https://ieeexplore.ieee.org/abstract/document/9586175)****
@@ -133,10 +133,10 @@
 
 # 2020
 
-## ASE 2020
+## ASE 2020 (1)
 
 - ****[CrossPriv: user privacy preservation model for cross-silo federated software.](https://dl.acm.org/doi/abs/10.1145/3324884.3418911)****
 
-## USENIX ATC 2020
+## USENIX ATC 2020 (1)
 
 - ****[BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning.](https://www.usenix.org/system/files/atc20-zhang-chengliang.pdf)****
