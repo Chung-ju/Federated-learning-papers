@@ -17,6 +17,7 @@
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
   - [DAC 2021 (3)](#dac-2021-3)
+  - [S\&P 2021 (1)](#sp-2021-1)
 - [2020](#2020)
   - [ASE 2020 (1)](#ase-2020-1)
   - [USENIX ATC 2020 (1)](#usenix-atc-2020-1)
@@ -156,6 +157,10 @@
 - ****[HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.](https://arxiv.org/pdf/2111.08274.pdf)****
 - ****[FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control.](https://ieeexplore.ieee.org/abstract/document/9586175)****
 - ****[Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration.](https://arxiv.org/pdf/1912.01684.pdf)****
+
+## S&P 2021 (1)
+
+- ****[SAFELearn: Secure Aggregation for private FEderated Learning.](https://eprint.iacr.org/2021/386.pdf)****
 
 ----
 
