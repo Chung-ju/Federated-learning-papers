@@ -10,6 +10,7 @@
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
+  - [USENIX Security 2022 (4)](#usenix-security-2022-4)
   - [ICDE 2022 (10)](#icde-2022-10)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
@@ -106,6 +107,13 @@
 ## DAC 2022 (1)
 
 - ****[FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)****
+
+## USENIX Security 2022 (4)
+
+- ****[SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost.](http://home.ustc.edu.cn/~lyl617/paper/icde2022_wanglun.pdf)****
+- ****[Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors.](https://ieeexplore.ieee.org/abstract/document/9835327)****
+- ****[Label Inference Attacks Against Vertical Federated Learning.](https://ieeexplore.ieee.org/abstract/document/9835159)****
+- ****[FLAME: Taming Backdoors in Federated Learning.](https://arxiv.org/pdf/2102.02079.pdf)****
 
 ## ICDE 2022 (10)
 
