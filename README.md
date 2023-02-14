@@ -21,6 +21,7 @@
   - [DAC 2021 (3)](#dac-2021-3)
   - [S\&P 2021 (1)](#sp-2021-1)
   - [CCS 2021 (1)](#ccs-2021-1)
+  - [NDSS 2021 (3)](#ndss-2021-3)
 - [2020](#2020)
   - [ASE 2020 (1)](#ase-2020-1)
   - [USENIX ATC 2020 (1)](#usenix-atc-2020-1)
@@ -182,6 +183,12 @@
 ## CCS 2021 (1)
 
 - ****[Private Hierarchical Clustering in Federated Networks.](https://dl.acm.org/doi/pdf/10.1145/3460120.3484822)****
+
+## NDSS 2021 (3)
+
+- ****[POSEIDON: Privacy-Preserving Federated Neural Network Learning.](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-1_24119_paper.pdf)****
+- ****[FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping.](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-2_24434_paper.pdf)****
+- ****[Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning.](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-2_24434_paper.pdf)****
 
 ----
 
