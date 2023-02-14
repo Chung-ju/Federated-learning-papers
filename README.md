@@ -14,6 +14,7 @@
   - [S\&P 2022 (2)](#sp-2022-2)
   - [ICDE 2022 (10)](#icde-2022-10)
   - [CCS 2022 (4)](#ccs-2022-4)
+  - [NDSS 2022 (4)](#ndss-2022-4)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -143,6 +144,13 @@
 - ****[CERBERUS: Exploring Federated Prediction of Security Events.](https://arxiv.org/pdf/2209.03050.pdf)****
 - ****[Eluding Secure Aggregation in Federated Learning via Model Inconsistency.](https://arxiv.org/pdf/2111.07380.pdf)****
 - ****[EIFFeL: Ensuring Integrity for Federated Learning.](https://arxiv.org/pdf/2112.12727.pdf)****
+
+## NDSS 2022 (4)
+
+- ****[Local and Central Differential Privacy for Robustness and Privacy in Federated Learning.](https://arxiv.org/pdf/2009.03561)****
+- ****[DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection.](https://arxiv.org/pdf/2201.00763.pdf)****
+- ****[FedCRI: Federated Mobile Cyber-Risk Intelligence.](https://www.ndss-symposium.org/wp-content/uploads/2022-153-paper.pdf)****
+- ****[Interpretable Federated Transformer Log Learning for Cloud Threat Forensics.](https://www.ndss-symposium.org/wp-content/uploads/2022-102-paper.pdf)****
 
 ----
 
