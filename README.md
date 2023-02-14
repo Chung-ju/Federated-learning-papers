@@ -19,6 +19,7 @@
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
   - [DAC 2021 (3)](#dac-2021-3)
   - [S\&P 2021 (1)](#sp-2021-1)
+  - [CCS 2021 (1)](#ccs-2021-1)
 - [2020](#2020)
   - [ASE 2020 (1)](#ase-2020-1)
   - [USENIX ATC 2020 (1)](#usenix-atc-2020-1)
@@ -169,6 +170,10 @@
 ## S&P 2021 (1)
 
 - ****[SAFELearn: Secure Aggregation for private FEderated Learning.](https://eprint.iacr.org/2021/386.pdf)****
+
+## CCS 2021 (1)
+
+- ****[Private Hierarchical Clustering in Federated Networks.](https://dl.acm.org/doi/pdf/10.1145/3460120.3484822)****
 
 ----
 
