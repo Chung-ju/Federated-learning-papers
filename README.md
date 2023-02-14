@@ -13,6 +13,7 @@
   - [USENIX Security 2022 (4)](#usenix-security-2022-4)
   - [S\&P 2022 (2)](#sp-2022-2)
   - [ICDE 2022 (10)](#icde-2022-10)
+  - [CCS 2022 (4)](#ccs-2022-4)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -134,6 +135,13 @@
 - ****[FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity.](https://arxiv.org/pdf/2204.03529)****
 - ****[FedRecAttack: Model Poisoning Attack to Federated Recommendation.](https://arxiv.org/pdf/2204.01499)****
 - ****[Samba: A System for Secure Federated Multi-Armed Bandits.](https://ieeexplore.ieee.org/abstract/document/9835585)****
+
+## CCS 2022 (4)
+
+- ****[Federated Boosted Decision Trees with Differential Privacy.](https://arxiv.org/pdf/2210.02910.pdf)****
+- ****[CERBERUS: Exploring Federated Prediction of Security Events.](https://arxiv.org/pdf/2209.03050.pdf)****
+- ****[Eluding Secure Aggregation in Federated Learning via Model Inconsistency.](https://arxiv.org/pdf/2111.07380.pdf)****
+- ****[EIFFeL: Ensuring Integrity for Federated Learning.](https://arxiv.org/pdf/2112.12727.pdf)****
 
 ----
 
