@@ -15,6 +15,7 @@
   - [ICDE 2022 (10)](#icde-2022-10)
   - [CCS 2022 (4)](#ccs-2022-4)
   - [NDSS 2022 (4)](#ndss-2022-4)
+  - [MLSys 2022 (2)](#mlsys-2022-2)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -152,6 +153,11 @@
 - ****[DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection.](https://arxiv.org/pdf/2201.00763.pdf)****
 - ****[FedCRI: Federated Mobile Cyber-Risk Intelligence.](https://www.ndss-symposium.org/wp-content/uploads/2022-153-paper.pdf)****
 - ****[Interpretable Federated Transformer Log Learning for Cloud Threat Forensics.](https://www.ndss-symposium.org/wp-content/uploads/2022-102-paper.pdf)****
+
+## MLSys 2022 (2)
+
+- ****[LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning.](https://proceedings.mlsys.org/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)****
+- ****[PAPAYA: Practical, Private, and Scalable Federated Learning.](https://proceedings.mlsys.org/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)****
 
 ----
 
