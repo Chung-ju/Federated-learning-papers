@@ -1,5 +1,6 @@
 # Contents
 
+
 - [Contents](#contents)
 - [2023](#2023)
   - [ICLR 2023 (47)](#iclr-2023-47)
@@ -18,6 +19,7 @@
   - [MLSys 2022 (2)](#mlsys-2022-2)
   - [KDD 2022 (13)](#kdd-2022-13)
   - [WWW 2022 (4)](#www-2022-4)
+  - [MobiCom 2022(4)](#mobicom-20224)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -182,6 +184,13 @@
 - ****[Federated Unlearning via Class-Discriminative Pruning.](https://arxiv.org/pdf/2110.11794.pdf)****
 - ****[An Accuracy-Lossless Perturbation Method for Defending Privacy Attacks in Federated Learning.](https://arxiv.org/pdf/2002.09843.pdf)****
 - ****[FedKC: Federated Knowledge Composition for Multilingual Natural Language Understanding.](https://dl.acm.org/doi/pdf/10.1145/3485447.3511988)****
+
+## MobiCom 2022(4)
+
+- ****[PyramidFL: a fine-grained client selection framework for efficient federated learning.](https://www.researchgate.net/profile/Mi-Zhang-13/publication/364567253_PyramidFL_a_fine-grained_client_selection_framework_for_efficient_federated_learning/links/636070d596e83c26eb7137f2/PyramidFL-a-fine-grained-client-selection-framework-for-efficient-federated-learning.pdf)****
+- ****[FedHD: federated learning with hyperdimensional computing.](https://cseweb.ucsd.edu/~x1yu/docs/mobicom2022/zhao2022fedhd.pdf)****
+- ****[NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing.](https://dl.acm.org/doi/abs/10.1145/3495243.3558248)****
+- ****[Federated learning-based air quality prediction for smart cities using BGRU model.](https://dl.acm.org/doi/abs/10.1145/3495243.3558267)****
 
 ----
 
