@@ -16,6 +16,7 @@
   - [CCS 2022 (4)](#ccs-2022-4)
   - [NDSS 2022 (4)](#ndss-2022-4)
   - [MLSys 2022 (2)](#mlsys-2022-2)
+  - [KDD 2022 (14)](#kdd-2022-14)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -158,6 +159,11 @@
 
 - ****[LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning.](https://proceedings.mlsys.org/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)****
 - ****[PAPAYA: Practical, Private, and Scalable Federated Learning.](https://proceedings.mlsys.org/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)****
+
+## KDD 2022 (14)
+
+- ****[Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data.](https://arxiv.org/pdf/2105.08925.pdf)****
+- ****[FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539384)****
 
 ----
 
