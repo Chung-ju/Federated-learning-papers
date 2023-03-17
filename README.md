@@ -17,6 +17,7 @@
   - [NDSS 2022 (4)](#ndss-2022-4)
   - [MLSys 2022 (2)](#mlsys-2022-2)
   - [KDD 2022 (13)](#kdd-2022-13)
+  - [WWW 2022 (4)](#www-2022-4)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -176,6 +177,11 @@
 - ****[Felicitas: Federated Learning in Distributed Cross Device Collaborative Frameworks.](https://dl.acm.org/doi/abs/10.1145/3534678.3539039)****
 - ****[A Practical Introduction to Federated Learning.](https://dl.acm.org/doi/abs/10.1145/3534678.3542631)****
 
+## WWW 2022 (4)
+
+- ****[Federated Unlearning via Class-Discriminative Pruning.](https://arxiv.org/pdf/2110.11794.pdf)****
+- ****[An Accuracy-Lossless Perturbation Method for Defending Privacy Attacks in Federated Learning.](https://arxiv.org/pdf/2002.09843.pdf)****
+- ****[FedKC: Federated Knowledge Composition for Multilingual Natural Language Understanding.](https://dl.acm.org/doi/pdf/10.1145/3485447.3511988)****
 
 ----
 
