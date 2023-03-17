@@ -164,6 +164,10 @@
 
 - ****[Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data.](https://arxiv.org/pdf/2105.08925.pdf)****
 - ****[FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539384)****
+- ****[Collaboration Equilibrium in Federated Learning.](https://arxiv.org/pdf/2108.07926.pdf)****
+- ****[Connecting Low-Loss Subspace for Personalized Federated Learning.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539254)****
+- ****[Communication-Efficient Robust Federated Learning with Noisy Labels.](https://arxiv.org/pdf/2206.05558.pdf)****
+- ****[FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy.](https://arxiv.org/pdf/2205.15896.pdf)****
 
 ----
 
