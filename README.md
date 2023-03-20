@@ -9,6 +9,7 @@
     - [Poster (40)](#poster-40)
   - [AISTATS 2023 (11)](#aistats-2023-11)
   - [MLSys 2023 (4)](#mlsys-2023-4)
+  - [WWW 2023 (11)](#www-2023-11)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -117,6 +118,20 @@
 - ****[GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning.](https://arxiv.org/pdf/2212.01523)****
 - ****[FLINT: A Platform for Federated Learning Integration.](https://arxiv.org/pdf/2302.12862.pdf)****
 - ****[On Noisy Evaluation in Federated Hyperparameter Tuning.](https://arxiv.org/pdf/2212.08930.pdf)****
+
+## WWW 2023 (11)
+
+- ****[Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding.]()****
+- ****[AgrEvader: Poisoning Membership Inference Against Byzantine-robust Federated Learning.]()****
+- ****[Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.]()****
+- ****[Semi-decentralized Federated Ego Graph Learning for Recommendation.]()****
+- ****[Federated Node Classification over Graphs with Latent Link-type Heterogeneity.]()****
+- ****[FedEdge: Accelerating Edge-Assisted Federated Learning.]()****
+- ****[FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures.]()****
+- ****[To Store or Not? Online Data Selection for Federated Learning with Limited Storage.]()****
+- ****[Interaction-level Membership Inference Attack Against Federated Recommender Systems.]()****
+- ****[FedACK: Federated Adversarial Contrastive Knowledge Distillation for Cross-Lingual and Cross-Model Social Bot Detection.]()****
+- ****[pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning.]()****
 
 # 2022
 
