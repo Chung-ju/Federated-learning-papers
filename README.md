@@ -22,6 +22,7 @@
   - [KDD 2022 (13)](#kdd-2022-13)
   - [WWW 2022 (3)](#www-2022-3)
   - [MobiCom 2022(4)](#mobicom-20224)
+  - [SIGMOD 2022 (1)](#sigmod-2022-1)
 - [2021](#2021)
   - [OSDI 2021 (1)](#osdi-2021-1)
   - [SOSP 2021-ResilientFL (6)](#sosp-2021-resilientfl-6)
@@ -214,6 +215,10 @@
 - ****[FedHD: federated learning with hyperdimensional computing.](https://cseweb.ucsd.edu/~x1yu/docs/mobicom2022/zhao2022fedhd.pdf)****
 - ****[NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing.](https://dl.acm.org/doi/abs/10.1145/3495243.3558248)****
 - ****[Federated learning-based air quality prediction for smart cities using BGRU model.](https://dl.acm.org/doi/abs/10.1145/3495243.3558267)****
+
+## SIGMOD 2022 (1)
+
+- ****[NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing.](https://arxiv.org/pdf/2206.07975.pdf)****
 
 ----
 
