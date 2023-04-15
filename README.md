@@ -10,6 +10,7 @@
   - [AISTATS 2023 (11)](#aistats-2023-11)
   - [MLSys 2023 (4)](#mlsys-2023-4)
   - [WWW 2023 (11)](#www-2023-11)
+  - [ICSE 2023 (2)](#icse-2023-2)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -133,6 +134,11 @@
 - ****[Interaction-level Membership Inference Attack Against Federated Recommender Systems.]()****
 - ****[FedACK: Federated Adversarial Contrastive Knowledge Distillation for Cross-Lingual and Cross-Model Social Bot Detection.]()****
 - ****[pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning.]()****
+
+## ICSE 2023 (2)
+
+- ****[FedDebug: Systematic Debugging for Federated Learning Applications.](https://arxiv.org/abs/2301.03553)****
+- ****[FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing.]()****
 
 # 2022
 
