@@ -9,7 +9,7 @@
     - [Poster (40)](#poster-40)
   - [AISTATS 2023 (11)](#aistats-2023-11)
   - [MLSys 2023 (4)](#mlsys-2023-4)
-  - [WWW 2023 (11)](#www-2023-11)
+  - [WWW 2023 (13)](#www-2023-13)
   - [ICSE 2023 (2)](#icse-2023-2)
   - [SIGMOD 2023 (1)](#sigmod-2023-1)
 - [2022](#2022)
@@ -122,19 +122,21 @@
 - ****[FLINT: A Platform for Federated Learning Integration.](https://arxiv.org/pdf/2302.12862.pdf)****
 - ****[On Noisy Evaluation in Federated Hyperparameter Tuning.](https://arxiv.org/pdf/2212.08930.pdf)****
 
-## WWW 2023 (11)
+## WWW 2023 (13)
 
-- ****[Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding.]()****
-- ****[AgrEvader: Poisoning Membership Inference Against Byzantine-robust Federated Learning.]()****
-- ****[Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.]()****
-- ****[Semi-decentralized Federated Ego Graph Learning for Recommendation.]()****
-- ****[Federated Node Classification over Graphs with Latent Link-type Heterogeneity.]()****
-- ****[FedEdge: Accelerating Edge-Assisted Federated Learning.]()****
-- ****[FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures.]()****
-- ****[To Store or Not? Online Data Selection for Federated Learning with Limited Storage.]()****
-- ****[Interaction-level Membership Inference Attack Against Federated Recommender Systems.]()****
-- ****[FedACK: Federated Adversarial Contrastive Knowledge Distillation for Cross-Lingual and Cross-Model Social Bot Detection.]()****
-- ****[pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning.]()****
+- ****[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks.](https://dl.acm.org/doi/10.1145/3543507.3583874)****
+- ****[Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding.](https://dl.acm.org/doi/10.1145/3543507.3583450)****
+- ****[AgrEvader: Poisoning Membership Inference Against Byzantine-robust Federated Learning.](https://dl.acm.org/doi/10.1145/3543507.3583542)****
+- ****[Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.](https://dl.acm.org/doi/10.1145/3543507.3583305)****
+- ****[Semi-decentralized Federated Ego Graph Learning for Recommendation.](https://dl.acm.org/doi/10.1145/3543507.3583337)****
+- ****[Federated Node Classification over Graphs with Latent Link-type Heterogeneity.](https://dl.acm.org/doi/10.1145/3543507.3583471)****
+- ****[FedEdge: Accelerating Edge-Assisted Federated Learning.](https://dl.acm.org/doi/10.1145/3543507.3583264)****
+- ****[FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures.](https://dl.acm.org/doi/10.1145/3543507.3583347)****
+- ****[To Store or Not? Online Data Selection for Federated Learning with Limited Storage.](https://dl.acm.org/doi/10.1145/3543507.3583426)****
+- ****[Interaction-level Membership Inference Attack Against Federated Recommender Systems.](https://dl.acm.org/doi/10.1145/3543507.3583359)****
+- ****[FedACK: Federated Adversarial Contrastive Knowledge Distillation for Cross-Lingual and Cross-Model Social Bot Detection.](https://dl.acm.org/doi/10.1145/3543507.3583500)****
+- ****[pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning.](https://dl.acm.org/doi/10.1145/3543507.3583518)****
+- ****[Beyond Fine-Tuning: Efficient and Effective Fed-Tuning for Mobile/Web Users.](https://dl.acm.org/doi/10.1145/3543507.3583212)****
 
 ## ICSE 2023 (2)
 
