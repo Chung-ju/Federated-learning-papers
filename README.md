@@ -11,6 +11,7 @@
   - [MLSys 2023 (4)](#mlsys-2023-4)
   - [WWW 2023 (11)](#www-2023-11)
   - [ICSE 2023 (2)](#icse-2023-2)
+  - [SIGMOD 2023 (1)](#sigmod-2023-1)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -139,6 +140,10 @@
 
 - ****[FedDebug: Systematic Debugging for Federated Learning Applications.](https://arxiv.org/abs/2301.03553)****
 - ****[FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing.]()****
+
+## SIGMOD 2023 (1)
+
+- ****[Practical Differentially Private and Byzantine-resilient Federated Learning.](https://arxiv.org/pdf/2304.09762.pdf)****
 
 # 2022
 
