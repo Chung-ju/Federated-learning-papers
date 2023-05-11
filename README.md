@@ -13,6 +13,7 @@
   - [ICSE 2023 (2)](#icse-2023-2)
   - [SIGMOD 2023 (1)](#sigmod-2023-1)
   - [ICDE 2023 (7)](#icde-2023-7)
+  - [NSDI 2023 (1)](#nsdi-2023-1)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -158,6 +159,10 @@
 - ****[Distribution-Regularized Federated Learning on Non-IID Data.](https://zhouzimu.github.io/paper/icde23-wang.pdf)****
 - ****[Enhancing Decentralized Federated Learning for Non-IID Data on Heterogenous Devices.]()****
 - ****[Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data.](https://songjiexie.github.io/PDFs/FedSC-slides.pdf)****
+
+## NSDI 2023 (1)
+
+- ****[FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning.](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)****
 
 # 2022
 
