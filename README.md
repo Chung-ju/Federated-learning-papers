@@ -12,6 +12,7 @@
   - [WWW 2023 (13)](#www-2023-13)
   - [ICSE 2023 (2)](#icse-2023-2)
   - [SIGMOD 2023 (1)](#sigmod-2023-1)
+  - [ICDE 2023 (7)](#icde-2023-7)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -146,6 +147,17 @@
 ## SIGMOD 2023 (1)
 
 - ****[Practical Differentially Private and Byzantine-resilient Federated Learning.](https://arxiv.org/pdf/2304.09762.pdf)****
+
+
+## ICDE 2023 (7)
+
+- ****[FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge.](https://arxiv.org/pdf/2212.01738.pdf)****
+- ****[Federated IoT Interaction Vulnerability Analysis.](https://openreview.net/pdf?id=GIJmPKGjtA)****
+- ****[Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs.](https://www.cs.emory.edu/~jyang71/files/fedda-workshop.pdf)****
+- ****[Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices.](https://arxiv.org/pdf/2303.00492.pdf)****
+- ****[Distribution-Regularized Federated Learning on Non-IID Data.](https://zhouzimu.github.io/paper/icde23-wang.pdf)****
+- ****[Enhancing Decentralized Federated Learning for Non-IID Data on Heterogenous Devices.]()****
+- ****[Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data.](https://songjiexie.github.io/PDFs/FedSC-slides.pdf)****
 
 # 2022
 
