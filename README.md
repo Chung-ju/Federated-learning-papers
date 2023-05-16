@@ -14,6 +14,7 @@
   - [SIGMOD 2023 (1)](#sigmod-2023-1)
   - [ICDE 2023 (7)](#icde-2023-7)
   - [NSDI 2023 (1)](#nsdi-2023-1)
+  - [S\&P 2023 (1)](#sp-2023-1)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -163,6 +164,10 @@
 ## NSDI 2023 (1)
 
 - ****[FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning.](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)****
+
+## S&P 2023 (1)
+
+- ****[FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information.](https://arxiv.org/pdf/2210.10936.pdf)****
 
 # 2022
 
