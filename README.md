@@ -16,6 +16,7 @@
   - [NSDI 2023 (1)](#nsdi-2023-1)
   - [S\&P 2023 (1)](#sp-2023-1)
   - [USENIX Security 2023 (3)](#usenix-security-2023-3)
+  - [EuroSys 2023 (1)](#eurosys-2023-1)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -175,6 +176,10 @@
 - ****[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23summer_372-yue-prepub.pdf)****
 - ****[Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks.](https://www.usenix.org/system/files/sec23fall-prepub-475-mozaffari.pdf)****
 - ****[PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation.](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)****
+
+## EuroSys 2023 (1)
+
+- ****[REFL: Resource-Efficient Federated Learning.](https://arxiv.org/pdf/2111.01108.pdf)****
 
 # 2022
 
