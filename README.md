@@ -15,6 +15,7 @@
   - [ICDE 2023 (7)](#icde-2023-7)
   - [NSDI 2023 (1)](#nsdi-2023-1)
   - [S\&P 2023 (1)](#sp-2023-1)
+  - [USENIX Security 2023 (3)](#usenix-security-2023-3)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -168,6 +169,12 @@
 ## S&P 2023 (1)
 
 - ****[FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information.](https://arxiv.org/pdf/2210.10936.pdf)****
+
+## USENIX Security 2023 (3)
+
+- ****[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23summer_372-yue-prepub.pdf)****
+- ****[Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks.](https://www.usenix.org/system/files/sec23fall-prepub-475-mozaffari.pdf)****
+- ****[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)****
 
 # 2022
 
