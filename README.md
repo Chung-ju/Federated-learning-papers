@@ -174,7 +174,7 @@
 
 - ****[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23summer_372-yue-prepub.pdf)****
 - ****[Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks.](https://www.usenix.org/system/files/sec23fall-prepub-475-mozaffari.pdf)****
-- ****[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)****
+- ****[PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation.](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)****
 
 # 2022
 
