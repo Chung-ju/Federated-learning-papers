@@ -18,6 +18,7 @@
   - [USENIX Security 2023 (3)](#usenix-security-2023-3)
   - [EuroSys 2023 (1)](#eurosys-2023-1)
   - [ICML 2023](#icml-2023)
+  - [NDSS 2023 (1)](#ndss-2023-1)
 - [2022](#2022)
   - [FSE 2022 (1)](#fse-2022-1)
   - [DAC 2022 (1)](#dac-2022-1)
@@ -186,6 +187,10 @@
 
 - ****[FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.](https://arxiv.org/pdf/2111.01108.pdf)****
 
+
+## NDSS 2023 (1)
+
+- ****[PPA: Preference Profiling Attack Against Federated Learning.](https://arxiv.org/pdf/2202.04856.pdf)****
 
 
 # 2022
