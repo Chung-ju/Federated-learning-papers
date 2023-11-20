@@ -2,6 +2,8 @@
 
 
 - [Contents](#contents)
+- [2024](#2024)
+  - [S\&P 2024](#sp-2024)
 - [2023](#2023)
   - [ICLR 2023 (47)](#iclr-2023-47)
     - [Notable-top-5% (2)](#notable-top-5-2)
@@ -45,6 +47,13 @@
   - [USENIX Security 2020 (1)](#usenix-security-2020-1)
 
 ----
+
+# 2024
+
+## S&P 2024
+
+- ****[BadVFL: Backdoor Attacks in Vertical Federated Learning.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a008/1RjE9MQ1fdC)****
+- ****[LOKI: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a030/1RjEa6sC0I8)****
 
 # 2023
 
