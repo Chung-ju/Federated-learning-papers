@@ -19,6 +19,7 @@
   - [NSDI 2023 (1)](#nsdi-2023-1)
   - [S\&P 2023 (8)](#sp-2023-8)
   - [USENIX Security 2023 (3)](#usenix-security-2023-3)
+  - [ACM CCS 2023 (4)](#acm-ccs-2023-4)
   - [EuroSys 2023 (1)](#eurosys-2023-1)
   - [ICML 2023](#icml-2023)
   - [NDSS 2023 (1)](#ndss-2023-1)
@@ -201,6 +202,13 @@
 - ****[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23summer_372-yue-prepub.pdf)****
 - ****[Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks.](https://www.usenix.org/system/files/sec23fall-prepub-475-mozaffari.pdf)****
 - ****[PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation.](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)****
+
+## ACM CCS 2023 (4)
+
+- ****[martFL: Enabling Utility-Driven Data Marketplace with a Robust and Verifiable Federated Learning Architecture.](https://dl.acm.org/doi/pdf/10.1145/3576915.3623134)****
+- ****[Turning Privacy-preserving Mechanisms against Federated Learning.](https://arxiv.org/pdf/2305.05355.pdf)****
+- ****[Unraveling the Connections between Privacy and Certified Robustness in Federated Learning Against Poisoning Attacks.](https://dl.acm.org/doi/abs/10.1145/3576915.3623193)****
+- ****[MESAS: Poisoning Defense for Federated Learning Resilient against Adaptive Attackers.](https://dl.acm.org/doi/abs/10.1145/3576915.3623212)****
 
 ## EuroSys 2023 (1)
 
