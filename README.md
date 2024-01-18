@@ -17,7 +17,7 @@
   - [SIGMOD 2023 (1)](#sigmod-2023-1)
   - [ICDE 2023 (7)](#icde-2023-7)
   - [NSDI 2023 (1)](#nsdi-2023-1)
-  - [S\&P 2023 (1)](#sp-2023-1)
+  - [S\&P 2023 (8)](#sp-2023-8)
   - [USENIX Security 2023 (3)](#usenix-security-2023-3)
   - [EuroSys 2023 (1)](#eurosys-2023-1)
   - [ICML 2023](#icml-2023)
@@ -185,9 +185,16 @@
 
 - ****[FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning.](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)****
 
-## S&P 2023 (1)
+## S&P 2023 (8)
 
 - ****[FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information.](https://arxiv.org/pdf/2210.10936.pdf)****
+- ****[RoFL: Robustness of Secure Federated Learning.](https://arxiv.org/pdf/2107.03311.pdf)****
+- ****[Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning.](https://eprint.iacr.org/2023/486.pdf)****
+- ****[BayBFed: Bayesian Backdoor Defense for Federated Learning.](https://arxiv.org/pdf/2301.09508.pdf)****
+- ****[ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems.](https://arxiv.org/pdf/2201.02775.pdf)****
+- ****[3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in Federated Learning.](https://drive.google.com/file/d/13PwOvEEflhce9RuwsQYfFk8WIuViKdtV/view)****
+- ****[Scalable and Privacy-Preserving Federated Principal Component Analysis.](https://arxiv.org/pdf/2304.00129.pdf)****
+- ****[ELSA: Secure Aggregation for Federated Learning with Malicious Actors.](https://eprint.iacr.org/2022/1695.pdf)****
 
 ## USENIX Security 2023 (3)
 
