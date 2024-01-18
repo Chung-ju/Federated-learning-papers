@@ -3,8 +3,8 @@
 
 - [Contents](#contents)
 - [2024](#2024)
-  - [S\&P 2024](#sp-2024)
-  - [NDSS 2024](#ndss-2024)
+  - [S\&P 2024 (2)](#sp-2024-2)
+  - [NDSS 2024 (2)](#ndss-2024-2)
 - [2023](#2023)
   - [ICLR 2023 (47)](#iclr-2023-47)
     - [Notable-top-5% (2)](#notable-top-5-2)
@@ -52,12 +52,12 @@
 
 # 2024
 
-## S&P 2024
+## S&P 2024 (2)
 
 - ****[BadVFL: Backdoor Attacks in Vertical Federated Learning.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a008/1RjE9MQ1fdC)****
 - ****[LOKI: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a030/1RjEa6sC0I8)****
 
-## NDSS 2024
+## NDSS 2024 (2)
 
 - ****[Securing Federated Sensitive Topic Classification against Poisoning Attacks.](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/)****
 - ****[PPA: Preference Profiling Attack Against Federated Learning.](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/)****
