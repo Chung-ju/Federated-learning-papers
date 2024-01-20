@@ -18,6 +18,7 @@
   - [FSE 2023 (1)](#fse-2023-1)
   - [SIGMOD 2023 (1)](#sigmod-2023-1)
   - [ICDE 2023 (7)](#icde-2023-7)
+  - [VLDB 2023 (7)](#vldb-2023-7)
   - [NSDI 2023 (1)](#nsdi-2023-1)
   - [S\&P 2023 (8)](#sp-2023-8)
   - [USENIX Security 2023 (3)](#usenix-security-2023-3)
@@ -199,6 +200,16 @@
 - ****[Distribution-Regularized Federated Learning on Non-IID Data.](https://zhouzimu.github.io/paper/icde23-wang.pdf)****
 - ****[Enhancing Decentralized Federated Learning for Non-IID Data on Heterogenous Devices.]()****
 - ****[Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data.](https://songjiexie.github.io/PDFs/FedSC-slides.pdf)****
+
+## VLDB 2023 (7)
+
+- ****[OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization.](https://arxiv.org/pdf/2210.01318.pdf)****
+- ****[FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.](https://arxiv.org/pdf/2204.05011.pdf)****
+- ****[Differentially Private Vertical Federated Clustering.](https://arxiv.org/pdf/2208.01700.pdf)****
+- ****[Secure Shapley Value for Cross-Silo Federated Learning.](https://www.vldb.org/pvldb/vol16/p1657-zheng.pdf)****
+- ****[Olive: Oblivious Federated Learning on Trusted Execution Environment Against the Risk of Sparsification.](https://arxiv.org/pdf/2202.07165.pdf)****
+- ****[Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System.](https://www.comp.nus.edu.sg/~ooibc/FalconVLDB2023.pdf)****
+- ****[Federated Calibration and Evaluation of Binary Classifiers.](https://arxiv.org/pdf/2210.12526.pdf)****
 
 ## NSDI 2023 (1)
 
