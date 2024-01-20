@@ -5,6 +5,7 @@
 - [2024](#2024)
   - [S\&P 2024 (2)](#sp-2024-2)
   - [NDSS 2024 (2)](#ndss-2024-2)
+  - [ICDE 2024 (9)](#icde-2024-9)
 - [2023](#2023)
   - [ICLR 2023 (47)](#iclr-2023-47)
     - [Notable-top-5% (2)](#notable-top-5-2)
@@ -63,6 +64,18 @@
 
 - ****[Securing Federated Sensitive Topic Classification against Poisoning Attacks.](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/)****
 - ****[PPA: Preference Profiling Attack Against Federated Learning.](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/)****
+
+## ICDE 2024 (9)
+
+- ****[Clients Help Clients: Alternating Collaboration for Semi-Supervised Federated Learning.]()****
+- ****[Label Noise Correction for Federated Learning: A Secure, Efficient and Reliable Realization.](C)****
+- ****[HeteFedRec: Federated Recommender Systems with Model Heterogeneity.]()****
+- ****[FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation.]()****
+- ****[RobFL: Robust Federated Learning via Feature Center Separation and Malicious Center Detection.]()****
+- ****[Feed: Towards Personalization-Effective Federated Learning.]()****
+- ****[Preventing the Popular Item Embedding Based Attack in Federated Recommendations.]()****
+- ****[Semi-Asynchronous Online Federated Crowdsourcing.]()****
+- ****[AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity.]()****
 
 # 2023
 
