@@ -207,6 +207,7 @@
 - ****[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23summer_372-yue-prepub.pdf)****
 - ****[Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks.](https://www.usenix.org/system/files/sec23fall-prepub-475-mozaffari.pdf)****
 - ****[PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation.](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)****
+- ****[VILLAIN: Backdoor Attacks Against Vertical Split Learning.](https://www.usenix.org/system/files/usenixsecurity23-bai.pdf)****
 
 ## ACM CCS 2023 (4)
 
