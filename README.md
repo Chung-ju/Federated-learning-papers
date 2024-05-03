@@ -1,6 +1,11 @@
+# New paperhub
+Subsequent updates will in here:
+**https://charlesjourney.gitbook.io/fedhome/**
+
 # Contents
 
 
+- [New paperhub](#new-paperhub)
 - [Contents](#contents)
 - [2024](#2024)
   - [S\&P 2024 (2)](#sp-2024-2)
