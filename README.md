@@ -6,6 +6,7 @@
 
 # 📢News
 
+- **2024-07-17**: new articles in SIGMOD 2024.
 - **2024-07-17**: new articles in CCS 2024.
 - **2024-07-16**: new articles in NDSS 2024.
 - **2024-07-13**: new articles in Mobisys 2024.
