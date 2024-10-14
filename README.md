@@ -6,6 +6,7 @@
 
 # 📢News
 
+- **2024-10-14**: new articles in Mobicom 2024.
 - **2024-10-14**: new articles in NDSS 2025 (summer).
 - **2024-09-25**: new articles in CCS 2024 (second cycle).
 - **2024-07-17**: new articles in SIGMOD 2024.
